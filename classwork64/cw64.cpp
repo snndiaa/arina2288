@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-
+//aaaaa
+//arina privet
 int main()
 {
 	//diana241
